@@ -13,3 +13,6 @@
 установить  виртуальную среду (pip venv or conda);
 установить зависимости pip install -r requirements.txt;
 выполнить команду streamlit run app.py  .
+
+![image](https://github.com/user-attachments/assets/263c4977-3503-4532-aaac-9bd73efef8d5)
+
