@@ -8,7 +8,9 @@
 #
 # Briefly in English: Chatbot with Transformers (application allows you to:  Ask questions and get answers based on provided context. Generate text based on user input. Summarize lengthy texts (only English)
 #
+
 Чтобы развернуть локально:
+![image](https://github.com/user-attachments/assets/3cafd14c-8ee2-4612-91a8-14f2e5c427fa)
 
 клонировть репозиторий;
 установить  виртуальную среду (pip venv or conda);
