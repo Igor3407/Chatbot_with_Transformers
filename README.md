@@ -10,7 +10,7 @@
 #
 Чтобы развернуть локально:
 
-клонировть репозиторий
-установить  виртуальную среду (pip venv or conda)
-установить зависимости pip install -r requirements.txt
-выполнить команду streamlit run app.py  
+клонировть репозиторий;
+установить  виртуальную среду (pip venv or conda);
+установить зависимости pip install -r requirements.txt;
+выполнить команду streamlit run app.py  .
